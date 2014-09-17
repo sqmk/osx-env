@@ -4,6 +4,7 @@ Listed here are the applications and settings I use for OSX.
 
 ## Applications
 
+- [Adobe Flash](http://get.adobe.com/flashplayer/)
 - [Dropbox](https://www.dropbox.com/downloading?src=index)
 - [Evernote](https://evernote.com/download/)
 - Final Cut Pro (Local)
