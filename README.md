@@ -9,6 +9,7 @@ Listed here are the applications and settings I use for OSX.
 - [Evernote](https://evernote.com/download/)
 - Final Cut Pro (Local)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Git](http://git-scm.com/download/mac)
 - [Google Chrome](https://www.google.com/chrome/browser/)
 - [Pixelmator](https://itunes.apple.com/us/app/pixelmator/id407963104)
 - [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
