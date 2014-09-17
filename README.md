@@ -17,3 +17,8 @@ Listed here are the applications and settings I use for OSX.
 - Transmit (Local)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Xcode](https://itunes.apple.com/us/app/xcode/id497799835)
+
+## Mouse settings
+```ssh
+defaults write -g com.apple.swipescrolldirection -bool FALSE
+```
