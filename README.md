@@ -1,4 +1,3 @@
-osx-env
-=======
+# OSX Environment
 
-My OSX Environment
+Listed here are the applications and settings I use for OSX.
