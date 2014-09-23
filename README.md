@@ -13,6 +13,7 @@ Listed here are the applications and settings I use for OSX.
 - [Google Chrome](https://www.google.com/chrome/browser/)
 - [Pixelmator](https://itunes.apple.com/us/app/pixelmator/id407963104)
 - [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
+- [Sublime Text](http://www.sublimetext.com/3)
 - [The Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353)
 - [Transmission](https://www.transmissionbt.com/download/)
 - Transmit (Local)
