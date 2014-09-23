@@ -23,5 +23,6 @@ Listed here are the applications and settings I use for OSX.
 ## Mouse settings
 ```ssh
 defaults write -g com.apple.swipescrolldirection -bool FALSE
+defaults write com.apple.driver.AppleBluetoothMultitouch.mouse MouseButtonMode TwoButton
 osascript -e 'tell app "System Events" to log out'
 ```
