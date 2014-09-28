@@ -13,12 +13,9 @@ Listed here are the applications and settings I use for OSX.
 - [Google Chrome](https://www.google.com/chrome/browser/)
 - [Pixelmator](https://itunes.apple.com/us/app/pixelmator/id407963104)
 - [Skype](http://www.skype.com/en/download-skype/skype-for-computer/)
-- [Sublime Text](http://www.sublimetext.com/3)
 - [The Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353)
 - [Transmission](https://www.transmissionbt.com/download/)
 - Transmit (Local)
-- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-- [Xcode](https://itunes.apple.com/us/app/xcode/id497799835)
 
 ## Mouse settings
 ```ssh
@@ -26,3 +23,10 @@ defaults write -g com.apple.swipescrolldirection -bool FALSE
 defaults write com.apple.driver.AppleBluetoothMultitouch.mouse MouseButtonMode TwoButton
 osascript -e 'tell app "System Events" to log out'
 ```
+
+## Development stuff
+
+- [Packer](http://www.packer.io/downloads.html)
+- [Sublime Text](http://www.sublimetext.com/3)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [Xcode](https://itunes.apple.com/us/app/xcode/id497799835)
