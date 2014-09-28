@@ -31,7 +31,15 @@ osascript -e 'tell app "System Events" to log out'
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Xcode](https://itunes.apple.com/us/app/xcode/id497799835)
 
+## Git configuration
+
 ```ssh
 git config --global user.name "Michael K. Squires"
 git config --global user.email sqmk@example.com
+```
+
+## Packer configuration
+
+```ssh
+sudo ln -s /usr/local/packer/packer /usr/bin/packer
 ```
