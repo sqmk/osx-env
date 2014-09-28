@@ -35,6 +35,7 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores true
 - [Git](http://git-scm.com/download/mac)
 - [Packer](http://www.packer.io/downloads.html)
 - [Sublime Text](http://www.sublimetext.com/3)
+- [Vagrant](https://www.vagrantup.com)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Xcode](https://itunes.apple.com/us/app/xcode/id497799835)
 
