@@ -56,3 +56,7 @@ echo 'export PATH=$PATH:/usr/local/packer' >> ~/.profile
 mkdir ~/Development
 hdiutil create -size 16g -fs 'Case-sensitive HFS+' -type SPARSEBUNDLE -volname Development ~/Development/Development.sparsebundle
 ```
+
+## Sublime Configuration
+
+- [Sublime Package Manager](https://sublime.wbond.net)
