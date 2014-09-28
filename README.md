@@ -67,6 +67,29 @@ hdiutil create -size 16g -fs 'Case-sensitive HFS+' -type SPARSEBUNDLE -volname D
 - [Theme - Soda](https://github.com/buymeasoda/soda-theme/)
 - [Font - Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 
+### User settings
+
+```json
+{
+	"auto_complete": true,
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"font_face": "Inconsolata",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80,
+		120
+	],
+	"shift_tab_unindent": true,
+	"soda_folder_icons": true,
+	"theme": "Soda Dark 3.sublime-theme"
+}
+```
 
 ### PHP Settings
 
