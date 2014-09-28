@@ -23,6 +23,12 @@ defaults write com.apple.driver.AppleBluetoothMultitouch.mouse MouseButtonMode T
 osascript -e 'tell app "System Events" to log out'
 ```
 
+## Prevent DS_Store
+
+```ssh
+defaults write com.apple.desktopservices DSDontWriteNetworkStores true
+```
+
 ## Development stuff
 
 - [Git](http://git-scm.com/download/mac)
