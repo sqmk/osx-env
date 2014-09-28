@@ -41,5 +41,5 @@ git config --global user.email sqmk@example.com
 ## Packer configuration
 
 ```ssh
-sudo ln -s /usr/local/packer/packer /usr/bin/packer
+echo 'export PATH=$PATH:/usr/local/packer' >> ~/.profile
 ```
