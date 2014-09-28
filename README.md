@@ -60,3 +60,29 @@ hdiutil create -size 16g -fs 'Case-sensitive HFS+' -type SPARSEBUNDLE -volname D
 ## Sublime Configuration
 
 - [Sublime Package Manager](https://sublime.wbond.net)
+- Abacus
+- DocBlockr
+- SideBarEnhancements
+- SyncedSideBar
+- [Theme - Soda](https://github.com/buymeasoda/soda-theme/)
+- [Font - Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
+
+
+### PHP Settings
+
+```json
+{
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"ensure_newline_at_eof_on_save": true,
+	"trim_trailing_white_space_on_save": true,
+	"extensions": ["php"],
+	"com.khiltd.abacus.separators": [
+		{
+			"token": "=>",
+			"gravity": "right",
+			"preserve_indentation": true
+		}
+	]
+}
+```
