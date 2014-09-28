@@ -43,3 +43,10 @@ git config --global user.email sqmk@example.com
 ```ssh
 echo 'export PATH=$PATH:/usr/local/packer' >> ~/.profile
 ```
+
+## New development sparsebundle
+
+```ssh
+mkdir ~/Development
+hdiutil create -size 16g -fs 'Case-sensitive HFS+' -type SPARSEBUNDLE -volname Development ~/Development/Development.sparsebundle
+```
