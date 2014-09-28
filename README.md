@@ -31,6 +31,7 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores true
 
 ## Development stuff
 
+- [Docker](https://github.com/boot2docker/osx-installer)
 - [Git](http://git-scm.com/download/mac)
 - [Packer](http://www.packer.io/downloads.html)
 - [Sublime Text](http://www.sublimetext.com/3)
