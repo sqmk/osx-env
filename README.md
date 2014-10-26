@@ -64,6 +64,7 @@ hdiutil create -size 16g -fs 'Case-sensitive HFS+' -type SPARSEBUNDLE -volname D
 - [Sublime Package Manager](https://sublime.wbond.net)
 - Abacus
 - DocBlockr
+- Puppet
 - SideBarEnhancements
 - SyncedSideBar
 - [Theme - Soda](https://github.com/buymeasoda/soda-theme/)
