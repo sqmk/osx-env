@@ -4,6 +4,7 @@ Listed here are the applications and settings I use for OSX.
 
 ## Applications
 
+- [1Password](https://itunes.apple.com/us/app/1password-password-manager/id568903335)
 - [Adobe Flash](http://get.adobe.com/flashplayer/)
 - [Dropbox](https://www.dropbox.com/downloading?src=index)
 - [Evernote](https://evernote.com/download/)
