@@ -72,6 +72,17 @@ hdiutil create -size 16g -fs 'Case-sensitive HFS+' -type SPARSEBUNDLE -volname D
 - [Theme - Soda](https://github.com/buymeasoda/soda-theme/)
 - [Font - Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 
+## Atom Configuration
+
+- Theme: One Dark
+- Syntax: One Dark
+- Package: atom-mac-terminal
+- Package: docblockr
+- Package: file-icons
+- Package: minimap
+- Package: project-manager
+- Package: travis-ci-status
+
 ### User settings
 
 ```json
